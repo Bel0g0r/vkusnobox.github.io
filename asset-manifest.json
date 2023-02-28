@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/vkusnobox.github.io/static/css/main.9192bce4.css",
+    "main.js": "/vkusnobox.github.io/static/js/main.ebca6746.js",
+    "static/js/356.b52cdbd4.js": "/vkusnobox.github.io/static/js/356.b52cdbd4.js",
+    "static/media/MaterialCommunityIcons.ttf": "/vkusnobox.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "/vkusnobox.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/vkusnobox.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/vkusnobox.github.io/static/media/OpenSans-SemiBold.029b9bc9d72f4d799803.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/vkusnobox.github.io/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome.ttf": "/vkusnobox.github.io/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/vkusnobox.github.io/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/OpenSans-Bold.ttf": "/vkusnobox.github.io/static/media/OpenSans-Bold.dbb97fd982ce1b96b6de.ttf",
+    "static/media/OpenSans-Regular.ttf": "/vkusnobox.github.io/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/AntDesign.ttf": "/vkusnobox.github.io/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Entypo.ttf": "/vkusnobox.github.io/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/Feather.ttf": "/vkusnobox.github.io/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/vkusnobox.github.io/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "favicon.ico": "/vkusnobox.github.io/favicon.ico",
+    "static/media/phone_call_icon.png": "/vkusnobox.github.io/static/media/phone_call_icon.a40e7e0ac0d6246d9800.png",
+    "index.html": "/vkusnobox.github.io/index.html",
+    "static/media/ajax-loader.gif": "/vkusnobox.github.io/static/media/ajax-loader.fb6f3c230cb846e25247.gif",
+    "static/media/slick.svg": "/vkusnobox.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/vkusnobox.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/vkusnobox.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/vkusnobox.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "favicon-32.png": "/vkusnobox.github.io/favicon-32.png",
+    "postMock.html": "/vkusnobox.github.io/postMock.html",
+    "manifest.json": "/vkusnobox.github.io/manifest.json",
+    "favicon-16.png": "/vkusnobox.github.io/favicon-16.png",
+    "serve.json": "/vkusnobox.github.io/serve.json",
+    "main.9192bce4.css.map": "/vkusnobox.github.io/static/css/main.9192bce4.css.map",
+    "main.ebca6746.js.map": "/vkusnobox.github.io/static/js/main.ebca6746.js.map",
+    "356.b52cdbd4.js.map": "/vkusnobox.github.io/static/js/356.b52cdbd4.js.map"
+  },
+  "entrypoints": [
+    "static/js/356.b52cdbd4.js",
+    "static/css/main.9192bce4.css",
+    "static/js/main.ebca6746.js"
+  ]
+}

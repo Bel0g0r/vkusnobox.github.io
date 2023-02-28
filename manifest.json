@@ -1,0 +1,21 @@
+{
+  "background_color": "#ff7300",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Vkusno Box",
+  "short_name": "Vkusno Box",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "ru.vkusnobox.app"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=ru.vkusnobox.app",
+      "id": "ru.vkusnobox.app"
+    }
+  ],
+  "prefer_related_applications": true
+}

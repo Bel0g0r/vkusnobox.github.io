@@ -2,19 +2,19 @@
   "background_color": "#ff7300",
   "display": "standalone",
   "lang": "en",
-  "name": "Vkusno Box",
-  "short_name": "Vkusno Box",
+  "name": "Vkusno-box",
+  "short_name": "Vkusno-box",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.vkusnobox.app"
+      "id": "ru.vkusno-box.app"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.vkusnobox.app",
-      "id": "ru.vkusnobox.app"
+      "url": "http://play.google.com/store/apps/details?id=ru.vkusno-box.app",
+      "id": "ru.vkusno-box.app"
     }
   ],
   "prefer_related_applications": true

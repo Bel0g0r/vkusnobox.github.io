@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vkusnobox.github.io/static/css/main.9192bce4.css",
-    "main.js": "/vkusnobox.github.io/static/js/main.5c47377b.js",
-    "static/js/356.096ff58a.js": "/vkusnobox.github.io/static/js/356.096ff58a.js",
+    "main.js": "/vkusnobox.github.io/static/js/main.64b7414f.js",
+    "static/js/356.448dacab.js": "/vkusnobox.github.io/static/js/356.448dacab.js",
     "static/media/MaterialCommunityIcons.ttf": "/vkusnobox.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/vkusnobox.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/vkusnobox.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/vkusnobox.github.io/favicon-16.png",
     "serve.json": "/vkusnobox.github.io/serve.json",
     "main.9192bce4.css.map": "/vkusnobox.github.io/static/css/main.9192bce4.css.map",
-    "main.5c47377b.js.map": "/vkusnobox.github.io/static/js/main.5c47377b.js.map",
-    "356.096ff58a.js.map": "/vkusnobox.github.io/static/js/356.096ff58a.js.map"
+    "main.64b7414f.js.map": "/vkusnobox.github.io/static/js/main.64b7414f.js.map",
+    "356.448dacab.js.map": "/vkusnobox.github.io/static/js/356.448dacab.js.map"
   },
   "entrypoints": [
-    "static/js/356.096ff58a.js",
+    "static/js/356.448dacab.js",
     "static/css/main.9192bce4.css",
-    "static/js/main.5c47377b.js"
+    "static/js/main.64b7414f.js"
   ]
 }
